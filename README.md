@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safakaya56
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++ programming
-- 💞️ I’m looking to collaborate on with a large tech company
+- 💞️ I’m looking to collaborate  with a large tech company
 - 📫 How to reach me : seffkaya7@gmail.com
 
 <!---
