@@ -2,7 +2,7 @@
 
 
 
-Van Yüzüncü Yıl Üniversitesi **Bilgisayar Mühendisliği** mezunuyum (GPA: 3.39/4.00).
+Yüzüncü Yıl Üniversitesi **Bilgisayar Mühendisliği** mezunuyum (GPA: 3.39/4.00).
 
 Ağırlıklı olarak **JavaScript ekosistemi**, **MERN Stack** ve **modern web mimarileri** üzerine uçtan uca çözümler geliştiriyorum. Bununla birlikte **Makine Öğrenmesi (ML)** ve **Bilgisayarla Görme (Computer Vision)** alanlarında projeler üretiyor, algoritmik sistemleri gerçek hayat senaryolarına entegre ediyorum.
 
