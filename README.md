@@ -1,8 +1,6 @@
 # Merhaba, Ben Muhammet Safa Kaya 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=safakaya56&label=Profil+Görüntülenmesi&color=0e75b6&style=flat" alt="Profil Görüntülenmesi" />
-</p>
+
 
 Van Yüzüncü Yıl Üniversitesi **Bilgisayar Mühendisliği** mezunuyum (GPA: 3.39/4.00).
 
