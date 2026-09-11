@@ -15,13 +15,13 @@ Ağırlıklı olarak **JavaScript ekosistemi**, **MERN Stack** ve **modern web m
 - 💻 **Full-Stack Web Geliştirme:** React.js, Node.js, Express.js ve RESTful mimariler.
 - 🗄️ **Veritabanı Mimarisi:** MongoDB ve PostgreSQL ile ilişkisel/doküman tabanlı veri modelleme.
 - 🤖 **Yapay Zekâ & Veri Bilimi:** Python tabanlı makine öğrenmesi modelleri ve OpenCV ile görüntü işleme.
-- 📱 **Mobil Arayüz:** Flutter ile platformlar arası prototipleme ve geliştirme.
+- 📱 **Mobil Geliştirme:** Flutter ile platformlar arası mobil uygulama geliştirme ve prototipleme.
 
 ---
 
 ### 🛠️ Teknolojiler & Yetkinlikler
 
-#### 💻 Diller & Temel
+#### 💻 Diller
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,27 +41,34 @@ Ağırlıklı olarak **JavaScript ekosistemi**, **MERN Stack** ve **modern web m
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🤖 Yapay Zekâ & Mobil
+#### 🤖 Yapay Zekâ & Bilgisayarla Görme
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### 📱 Mobil Geliştirme
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+---
 
+---
 
 ### 📬 İletişim
 
 <p align="left">
 
-  <a href="https://linkedin.com/in/LINKEDIN_KULLANICI_ADINIZ">
+  <a href="https://www.linkedin.com/in/muhammet-safa-kaya-935422265/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="PORTFOY_SITE_LINKINIZ">
+  <a href="https://my-portfolio-safakaya.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 
-  <a href="mailto:E_POSTA_ADRESINIZ">
+  <a href="mailto:kayamuhammetsafa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
