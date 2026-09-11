@@ -47,19 +47,7 @@ Ağırlıklı olarak **JavaScript ekosistemi**, **MERN Stack** ve **modern web m
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=safakaya56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safakaya56&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
-
----
 
 ### 📬 İletişim
 
