@@ -1,7 +1,6 @@
 # Merhaba, Ben Muhammet Safa Kaya 👋
 
 
-
 Yüzüncü Yıl Üniversitesi **Bilgisayar Mühendisliği** mezunuyum (GPA: 3.39/4.00).
 
 Ağırlıklı olarak **JavaScript ekosistemi**, **MERN Stack** ve **modern web mimarileri** üzerine uçtan uca çözümler geliştiriyorum. Bununla birlikte **Makine Öğrenmesi (ML)** ve **Bilgisayarla Görme (Computer Vision)** alanlarında projeler üretiyor, algoritmik sistemleri gerçek hayat senaryolarına entegre ediyorum.
@@ -12,7 +11,7 @@ Ağırlıklı olarak **JavaScript ekosistemi**, **MERN Stack** ve **modern web m
 
 - 💻 **Full-Stack Web Geliştirme:** React.js, Node.js, Express.js ve RESTful mimariler.
 - 🗄️ **Veritabanı Mimarisi:** MongoDB ve PostgreSQL ile ilişkisel/doküman tabanlı veri modelleme.
-- 🤖 **Yapay Zekâ & Veri Bilimi:** Python tabanlı makine öğrenmesi modelleri ve OpenCV ile görüntü işleme.
+- 🤖 **Yapay Zekâ & Bilgisayarla Görme:** Makine Öğrenmesi, Deep Learning ve Computer Vision tabanlı görüntü işleme ve analiz uygulamaları.
 - 📱 **Mobil Geliştirme:** Flutter ile platformlar arası mobil uygulama geliştirme ve prototipleme.
 
 ---
@@ -42,15 +41,15 @@ Ağırlıklı olarak **JavaScript ekosistemi**, **MERN Stack** ve **modern web m
 #### 🤖 Yapay Zekâ & Bilgisayarla Görme
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-4285F4?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
 
 #### 📱 Mobil Geliştirme
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-
+---
 
 ### 📬 İletişim
 
